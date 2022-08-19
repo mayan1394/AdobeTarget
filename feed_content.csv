@@ -1,0 +1,12 @@
+## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.director,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
+Mayank_Item_1,Special Ops,Suspense & Thriller,,https://m.media-amazon.com/images/M/MV5BMDc3Zjc4NjAtMTI2MC00YmQwLTk3MmItZTZiNWM0YmNiNmNkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg,,,,,Neeraj Pandey,,,,,,,,,,
+Mayank_Item_2,Family Man,Suspense & Thriller,,https://upload.wikimedia.org/wikipedia/en/d/dc/The_Family_Man.jpeg,,,,,Raj & DK,,,,,,,,,,
+Mayank_Item_3,Special Ops 1.5,Suspense & Thriller,,https://m.media-amazon.com/images/M/MV5BOWQzNWEzMjktMTRiYS00NTM5LTkwZjItZjAzZjZjODhmYmY0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg,,,,,Neeraj Pandey,,,,,,,,,,
+Mayank_Item_4,Gullak,Comedy,,https://assets.gadgets360cdn.com/pricee/assets/product/202203/Gullak-S3-poster_1647190566.jpg,,,,,Amrit Raj Gupta,,,,,,,,,,
+Mayank_Item_5,Panchaayat,Comedy,,https://m.media-amazon.com/images/M/MV5BMTllYzQ0MzctZTI4Ny00YTE2LTkzYjktMTc4ZWE2MDUxNzk2XkEyXkFqcGdeQXVyNzEyNTM4MTU@._V1_.jpg,,,,,Deepak Kumar Mishra,,,,,,,,,,
